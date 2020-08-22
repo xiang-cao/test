@@ -6,4 +6,5 @@ Git is popular
 
 git is free.
 
+git is useful
 
